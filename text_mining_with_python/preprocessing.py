@@ -7,5 +7,5 @@ import nltk
 nltk.download('stopwords')
 
 words_Koread = ['추석', '연휴', '민족', '민족', '대이동', '을', '시작']
-stopwords=['가다', '늘어', '나타', '것', '기자']
+stopwords = ['가다', '늘어', '나타', '것', '기자']
 print([ i for i in words_Koread if i not in stopwords])
