@@ -1,0 +1,1 @@
+Natural language processing is one of biggest streams in artificial intelligence , and if becomes very atfter seq2seq `s inventions.
